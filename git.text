@@ -1,1 +1,2 @@
 Hello world!
+What a beautiful day!
